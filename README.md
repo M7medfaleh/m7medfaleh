@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohammed Faleh</h1>
-<h3 align="center">From Zero To Hero</h3>
 
 - 🌱 I’m currently learning **Cybersecurity**
 
